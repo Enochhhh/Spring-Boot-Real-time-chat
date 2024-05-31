@@ -1,2 +1,2 @@
 # SpringBootRealTimeChat
-Using WebSocket with Spring MVC and Thymeleaf to build real-time chat app
+Using WebSocket with Spring Boot to build real-time chat app
